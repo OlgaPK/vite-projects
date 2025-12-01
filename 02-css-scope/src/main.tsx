@@ -4,9 +4,7 @@ import './index.css'
 import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
-    <StrictMode>
-    <p>hi from main.tsx</p>
-  <App />
-</StrictMode>,
+  <StrictMode>
+    <App />
+  </StrictMode>,
 )
-//tsx = TYpeScript jsx
