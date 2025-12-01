@@ -1,4 +1,4 @@
-import Demo from '../Demo/Demo'
+import Demo from '../demo/Demo'
 import './App.css'
 
 function App() {
